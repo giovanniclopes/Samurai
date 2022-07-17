@@ -5,3 +5,23 @@
 body {
     @apply bg-cpBlack text-cpTextColor text-lg;
 }
+
+* {
+scrollbar-width: auto;
+scrollbar-color: #b2040b #1a1a1a;
+}
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+width: 10px;
+}
+
+*::-webkit-scrollbar-track {
+background: #1a1a1a;
+}
+
+*::-webkit-scrollbar-thumb {
+background-color: #b2040b;
+border-radius: 020px;
+border: 0px solid #3a3131;
+}
