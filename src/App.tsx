@@ -5,7 +5,7 @@ function App() {
   return (
       <div>
         <Header />
-        <main className="px-28 pt-64">
+        <main className="px-28 pt-64 sm: px-10">
           <section>
             <p>
               Hear my call, I'm chippin' in
