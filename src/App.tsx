@@ -85,6 +85,7 @@ function App() {
             <p>não sobrou para nós</p>
           </section>
         </main>
+        
         <Footer />
       </div>
   )
