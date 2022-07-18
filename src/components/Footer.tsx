@@ -4,7 +4,7 @@ export function Footer() {
             <div>
                 <img 
                 className="w-36 h-40"
-                src="src\assets\logo.png" alt="" />
+                src="src/assets/logo.png" alt="" />
                 <span></span>
             </div>
         </footer>
