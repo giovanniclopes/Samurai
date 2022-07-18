@@ -3,7 +3,7 @@ import Header from "./components/Header"
 
 function App() {
   return (
-      <div>
+      <div className="sm:text-lg">
         <Header />
         <main className="px-36 pt-64 sm: px-4">
           <section>
