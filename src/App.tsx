@@ -62,7 +62,7 @@ function App() {
                     <p>megaprédio. uma pena ela ter se vendido pro N54 News. Teclado.</p>
                   </li>
                   <li>
-                    <p>Henry - um guri que faz de tudo. trabalhou no primeiro protótipo ed link pessoal.</p>
+                    <p>Henry - um guri que faz de tudo. trabalhou no primeiro protótipo de link pessoal.</p>
                   </li>
                 </ul>
               </div>
