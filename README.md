@@ -1,5 +1,5 @@
 
-![Logo](https://samurai-seven.vercel.app/assets/logo.6851e32b.png)
+![Logo](https://samurai-seven.vercel.app/assets/samurai.0a93943b.png)
 
 
 # Samurai (Cyberpunk 2077)
